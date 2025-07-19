@@ -1,0 +1,21 @@
+# Ignore virtual environment
+searcheng/
+
+# Ignore compiled files and cache
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Ignore large data
+data/images/
+data/embeddings.npy
+*.pkl
+
+# Ignore IDE/editor files
+.vscode/
+*.DS_Store
+*.log
+
+# Ignore environment files
+.env

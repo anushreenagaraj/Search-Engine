@@ -1,0 +1,11 @@
+streamlit
+transformers
+torch
+opencv-python
+Pillow
+deepface
+sentence-transformers
+scikit-learn
+tqdm
+numpy
+pytesseract
